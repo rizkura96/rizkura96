@@ -22,4 +22,4 @@
   
 </a>
 </p>
-<img align="center" height="300em" width="900em" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkura96&" alt="rizkura96" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkura96&" alt="rizkura96" /></p>
