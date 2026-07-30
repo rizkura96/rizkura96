@@ -5,23 +5,23 @@
 
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
-QA Automation Engineer working across web automation (Selenium and Java —
-TestNG and Cucumber BDD), API testing (Postman, and Cucumber Serenity BDD
-with Rest Assured), UI automation with Playwright (TypeScript), and
+QA Automation Engineer working across web automation (Selenium and Java,
+both TestNG and Cucumber BDD), API testing (Postman, and Cucumber Serenity
+BDD with Rest Assured), UI automation with Playwright (TypeScript), and
 performance testing with JMeter. I run projects through Trello and GitHub
 Projects, and I'm comfortable working with AWS for deployment and
 infrastructure. Beyond testing, I also design, build, and deploy my own
-full-stack web tools in my free time — see [Things I've Built](#-things-ive-built)
+full-stack web tools in my free time. See [Things I've Built](#-things-ive-built)
 below. Lately I've been getting into cybersecurity and security testing as
 well. I'm detail-oriented, enjoy digging into edge cases, and I'm always
 picking up new tools when they make the work faster or the product better.
 
-- 🔭 I'm currently focused on **test automation (Playwright/TypeScript, Selenium Java — TestNG & Cucumber)** and **API testing (Postman, Serenity BDD + Rest Assured)**
-- 🛠️ I also **build and deploy my own full-stack web apps** — Node.js backends, vanilla JS/HTML/CSS frontends, custom auth, deployed on Render/AWS
-- 🤖 I use **AI-assisted development (Claude Code)** to design, build, and ship real, deployed applications end-to-end — not just autocomplete, but full products from idea to production
+- 🔭 I'm currently focused on **test automation (Playwright/TypeScript, Selenium Java with TestNG & Cucumber)** and **API testing (Postman, Serenity BDD + Rest Assured)**
+- 🛠️ I also **build and deploy my own full-stack web apps**: Node.js backends, vanilla JS/HTML/CSS frontends, custom auth, deployed on Render/AWS
+- 🤖 I use **AI-assisted development (Claude Code)** to design, build, and ship real, deployed applications end-to-end, not just autocomplete but full products from idea to production
 - 💬 Ask me about **Web/API/Performance Testing, Test Automation Frameworks, or building small tools that solve a real problem**
 - 📫 How to reach me: **rizkura96@gmail.com**
-- ⚡ Fun fact: I'll ask for a bigger drop zone, then bigger again, then a slider on top of that — turns out "detail-oriented" also means never being quite happy with the first version 😄
+- ⚡ Fun fact: I'll ask for a bigger drop zone, then bigger again, then a slider on top of that. Turns out "detail-oriented" also means never being quite happy with the first version 😄
 
 <br clear="right"/>
 
@@ -29,11 +29,11 @@ picking up new tools when they make the work faster or the product better.
 
 A couple of side projects where I went beyond testing software to actually building it:
 
-**Compare & Analyze** — a file-diff tool (text, JSON, XML, CSV, Excel, and a
+**Compare & Analyze**: a file-diff tool (text, JSON, XML, CSV, Excel, and a
 fully visual page-by-page PDF compare) with its own login system and session
 handling, deployed live: https://compareanalyze.onrender.com
 
-**RKR Console** — a personal automation hub that runs my daily QA pipelines
+**RKR Console**: a personal automation hub that runs my daily QA pipelines
 (DB/HRMS environment setup) and pulls an AI-assisted summary of my regression
 test failures, so I can triage faster every morning.
 
