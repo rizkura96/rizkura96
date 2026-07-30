@@ -8,7 +8,7 @@
 QA Automation Engineer working across web automation (Selenium and Java,
 both TestNG and Cucumber BDD), API testing (Postman, and Cucumber Serenity
 BDD with Rest Assured), UI automation with Playwright (TypeScript), and
-performance testing with JMeter. I run projects through Trello and GitHub
+performance testing with JMeter. I run projects through Jira and GitHub
 Projects, and I'm comfortable working with AWS for deployment and
 infrastructure. Beyond testing, I also design, build, and deploy my own
 full-stack web tools in my free time. See [Things I've Built](#-things-ive-built)
@@ -56,6 +56,7 @@ directed end-to-end with AI-assisted development.
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logoColor=white" alt="PowerShell" />
 <img src="https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logoColor=white" alt="CMD" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
 <p align="left">
