@@ -5,19 +5,23 @@
 
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
-QA Automation Engineer working across web automation (Selenium and Java,
-both TestNG and Cucumber BDD), API testing (Postman, and Cucumber Serenity
-BDD with Rest Assured), UI automation with Playwright (TypeScript), and
-performance testing with JMeter. I run projects through Jira and GitHub
-Projects, and I'm comfortable working with AWS for deployment and
-infrastructure. Beyond testing, I also design, build, and deploy my own
-full-stack web tools in my free time. See [Things I've Built](#-things-ive-built)
-below. Lately I've been getting into cybersecurity and security testing as
-well. I'm detail-oriented, enjoy digging into edge cases, and I'm always
-picking up new tools when they make the work faster or the product better.
+QA Automation Engineer currently focused on UI automation with Playwright
+(TypeScript) and mobile automation with Appium/WebdriverIO, with test
+reporting via Allure and Mochawesome. I also have a background in web
+automation with Selenium and Java (TestNG, Cucumber BDD) - less hands-on
+with Java day-to-day now, but I still maintain those suites - plus API
+testing (Postman, Cucumber Serenity BDD with Rest Assured) and performance
+testing with JMeter. I run projects through Jira and GitHub Projects, and
+I'm comfortable working with AWS for deployment and infrastructure. Beyond
+testing, I also design, build, and deploy my own full-stack web tools in my
+free time. See [Things I've Built](#-things-ive-built) below. Lately I've
+been getting into cybersecurity and security testing as well. I'm
+detail-oriented, enjoy digging into edge cases, and I'm always picking up
+new tools when they make the work faster or the product better.
 
-- 🔭 I'm currently focused on **test automation (Playwright/TypeScript, Selenium Java with TestNG & Cucumber)** and **API testing (Postman, Serenity BDD + Rest Assured)**
-- 🛠️ I also **build and deploy my own full-stack web apps**: Node.js backends, vanilla JS/HTML/CSS frontends, custom auth, deployed on Render/AWS
+- 🔭 I'm currently focused on **Playwright (TypeScript) UI automation** and **Appium/WebdriverIO mobile automation**, with **Allure/Mochawesome** reporting
+- 🧰 Background in **Selenium/Java (TestNG, Cucumber BDD)** and **API testing (Postman, Serenity BDD + Rest Assured)** - less hands-on with Java day-to-day now, but still maintaining those suites
+- 🛠️ I also **build and deploy my own full-stack web apps**: Node.js backends, vanilla JS/HTML/CSS frontends, custom auth, deployed on Vercel/AWS
 - 🤖 I use **AI-assisted development (Claude Code)** to design, build, and ship real, deployed applications end-to-end, not just autocomplete but full products from idea to production
 - 💬 Ask me about **Web/API/Performance Testing, Test Automation Frameworks, or building small tools that solve a real problem**
 - 📫 How to reach me: **rizkura96@gmail.com**
@@ -31,7 +35,7 @@ A couple of side projects where I went beyond testing software to actually build
 
 **Compare & Analyze**: a file-diff tool (text, JSON, XML, CSV, Excel, and a
 fully visual page-by-page PDF compare) with its own login system and session
-handling, deployed live: https://compareanalyze.onrender.com
+handling, deployed live: https://compareanalyze.vercel.app
 
 **RKR Console**: a personal automation hub that runs my daily QA pipelines
 (DB/HRMS environment setup) and pulls an AI-assisted summary of my regression
@@ -44,6 +48,8 @@ directed end-to-end with AI-assisted development.
 <p align="left">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Appium-94E62A?style=for-the-badge&logo=appium&logoColor=black" alt="Appium" />
+<img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white" alt="WebdriverIO" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -52,6 +58,8 @@ directed end-to-end with AI-assisted development.
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/Allure_Report-FF9E0F?style=for-the-badge&logoColor=white" alt="Allure Report" />
+<img src="https://img.shields.io/badge/Mochawesome-8D6E63?style=for-the-badge&logoColor=white" alt="Mochawesome" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logoColor=white" alt="PowerShell" />
 <img src="https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logoColor=white" alt="CMD" />
