@@ -46,25 +46,13 @@ directed end-to-end with AI-assisted development.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white" alt="Playwright" />
-<img src="https://img.shields.io/badge/Appium-94E62A?style=for-the-badge&logo=appium&logoColor=black" alt="Appium" />
+<img src="https://skillicons.dev/icons?i=ts,playwright,appium,git,java,nodejs,mssql,aws,postman,jmeter,selenium,bash,powershell,cmd,jira" alt="Skills" />
+</p>
+<p align="left">
 <img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white" alt="WebdriverIO" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logoColor=white" alt="MSSQL" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 <img src="https://img.shields.io/badge/Allure_Report-FF9E0F?style=for-the-badge&logoColor=white" alt="Allure Report" />
 <img src="https://img.shields.io/badge/Mochawesome-8D6E63?style=for-the-badge&logoColor=white" alt="Mochawesome" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logoColor=white" alt="PowerShell" />
-<img src="https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logoColor=white" alt="CMD" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
 <p align="left">
