@@ -35,7 +35,7 @@ A couple of side projects where I went beyond testing software to actually build
 
 **Compare & Analyze**: a file-diff tool (text, JSON, XML, CSV, Excel, and a
 fully visual page-by-page PDF compare) with its own login system and session
-handling, deployed live: https://compareanalyze.vercel.app
+handling, deployed live: https://www.compareanalyze.com
 
 **RKR Console**: a personal automation hub that runs my daily QA pipelines
 (DB/HRMS environment setup) and pulls an AI-assisted summary of my regression
